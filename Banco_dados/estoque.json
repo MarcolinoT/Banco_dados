@@ -1,0 +1,22 @@
+{
+    "1": {
+        "Nome": "beterraba",
+        "Quantidade": "123",
+        "Preco": 12.0
+    },
+    "2": {
+        "Nome": "agriao",
+        "Quantidade": "123",
+        "Preco": 1.0
+    },
+    "3": {
+        "Nome": "cocacola",
+        "Quantidade": "12",
+        "Preco": 12.0
+    },
+    "4": {
+        "Nome": "alface",
+        "Quantidade": "12",
+        "Preco": 1.99
+    }
+}
